@@ -1,3 +1,3 @@
 # Saidak Primes
 
-See the [notebook][saidak.ipynb].
+See the [notebook](saidak.ipynb).
